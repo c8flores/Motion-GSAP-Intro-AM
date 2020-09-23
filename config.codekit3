@@ -302,6 +302,17 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/Screen Shot 2020-09-09 at 8.59.17 AM.png": {
+		"ft": 32768,
+		"iS": 22322,
+		"oA": 0,
+		"oAP": "/Screen Shot 2020-09-09 at 8.59.17 AM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		}
 	},
 "hooks": [
