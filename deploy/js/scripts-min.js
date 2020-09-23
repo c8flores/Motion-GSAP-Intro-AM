@@ -1,0 +1,1 @@
+!function(){"use strict";console.log("demo");var o=Object.freeze({__proto__:null});console.log(o)}();
