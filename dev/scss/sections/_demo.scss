@@ -2,8 +2,53 @@
     Demo
 ============= */
 
-.red-box{
-    height: 200px;
-    width: 200px;
-    background-color: $red;
+#star-container{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
+    #star{
+        color: #fff3de;
+        padding: 50px;
+    }
+}
+
+#star-container2{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
+    #star-2{
+        color: #fcdb8d;
+        padding: 0px 0px 0px 200px;
+    }
+}
+
+#star-container3{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
+    #star-3{
+        color: #fcdb8d;
+        padding: 30px 0px 0px 400px;
+    }
+}
+
+#star-container4{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
+    #star-4{
+        color: #fff3de;
+        padding: 0px 0px 0px 600px;
+    }
+}
+
+#text-container{
+    grid-area: starry night;
+    align-self: center;
+    color: #b2d6ed;
+    font-size: 60px;
 }
